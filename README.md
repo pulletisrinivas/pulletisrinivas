@@ -1,120 +1,139 @@
-## Hi there 👋
 <div align="center">
+
+<br>
 
 # PULLETI SRINIVAS
 
 ### PYTHON FULL STACK DEVELOPER
 
-Computer Science Engineer | AI & Machine Learning Enthusiast | Software Developer
+<p>
+Computer Science Engineer · Full Stack Development · Artificial Intelligence
+</p>
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pulletisrinivas)
+<a href="https://github.com/pulletisrinivas">
+<img src="https://img.shields.io/badge/GITHUB-111111?style=flat-square&logo=github&logoColor=ffffff">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/srinivas-pulleti-36b640271">
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=flat-square&logo=linkedin&logoColor=ffffff">
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinivas-pulleti-36b640271)
+<br>
+<br>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### BUILDING SOFTWARE WITH PURPOSE.
+
+**Python · Flask · JavaScript · SQL · Machine Learning**
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </div>
 
----
 
-<div align="center">
+<br>
 
-> Building practical software with Python, modern web technologies and artificial intelligence.
 
-</div>
+## PROFILE
 
----
+I am **Pulletti Srinivas**, a Computer Science graduate and Python
+Full Stack Developer focused on building practical, responsive and
+user-oriented software applications.
 
-# ABOUT ME
+My development interests span from modern web development and
+database-driven applications to machine learning, computer vision
+and artificial intelligence.
 
-I'm Srinivas Pulleti, a Computer Science graduate and Python Full Stack
-Developer interested in building clean, responsive and practical
-software applications.
+I enjoy transforming ideas into functional products through a
+combination of clean code, thoughtful design and continuous learning.
 
-My development journey combines full-stack web development, databases,
-data analysis, machine learning and artificial intelligence.
 
-I enjoy taking an idea from concept to implementation and continuously
-improving the final solution.
+<br>
 
----
 
-# PROFESSIONAL PROFILE
+## CORE TECHNOLOGIES
 
-| Category | Details |
-|---|---|
-| Name | Pulletti Srinivas |
-| Role | Python Full Stack Developer |
-| Education | B.Tech — Computer Science & Engineering |
-| Primary Language | Python |
-| Frontend | HTML5, CSS3, JavaScript, Bootstrap |
-| Backend | Flask |
-| Database | MySQL, SQLite |
-| Machine Learning | Scikit-learn, Random Forest, Gradient Boosting, XGBoost |
-| Deep Learning | TensorFlow, Keras, CNN |
-| Data Analysis | Pandas, NumPy, Power BI |
-| Tools | Git, GitHub, VS Code |
-| Areas of Interest | Full Stack Development, AI, Machine Learning |
+<table>
+<tr>
 
----
+<td width="25%" align="center">
 
-# TECHNICAL SKILLS
+### DEVELOPMENT
 
-## Programming Languages
+Python  
+JavaScript  
+HTML5  
+CSS3  
+Bootstrap
 
-`Python` `JavaScript` `SQL`
+</td>
 
-## Frontend Development
+<td width="25%" align="center">
 
-`HTML5` `CSS3` `JavaScript` `Bootstrap`
+### BACKEND
 
-## Backend Development
+Flask  
+REST Concepts  
+Application Logic  
+Authentication  
+Database Integration
 
-`Python` `Flask`
+</td>
 
-## Databases
+<td width="25%" align="center">
 
-`MySQL` `SQLite`
+### DATA
 
-## Data Analysis
+MySQL  
+SQLite  
+SQL  
+Pandas  
+NumPy  
+Power BI
 
-`Pandas` `NumPy` `Power BI`
+</td>
 
-## Machine Learning
+<td width="25%" align="center">
 
-`Scikit-learn` `Random Forest` `Gradient Boosting` `XGBoost` `SMOTE`
+### AI / ML
 
-## Deep Learning
+Scikit-learn  
+XGBoost  
+TensorFlow  
+Keras  
+CNN  
+Computer Vision
 
-`TensorFlow` `Keras` `CNN`
+</td>
 
-## Artificial Intelligence
+</tr>
+</table>
 
-`Computer Vision` `Image Processing` `Object Detection` `Natural Language Processing` `Generative AI`
 
-## Development Tools
+<br>
 
-`Git` `GitHub` `VS Code`
 
----
+## SELECTED WORK
 
-# FEATURED PROJECTS
+### 01 — AI BASED STROKE PREDICTION
 
-## AI Based Stroke Prediction Model
+**Machine Learning · Healthcare · Classification**
 
-### Machine Learning | Healthcare | Classification
-
-AI Based Stroke Prediction Model Using Patient History Data is a
-machine learning project focused on predicting stroke risk using
+A machine learning system designed to predict stroke risk using
 patient history data.
 
-### Key Implementation
+The project focuses on preprocessing healthcare data, addressing
+class imbalance and evaluating multiple ensemble learning models.
 
-- Data preprocessing
-- Missing value handling
+**Implementation**
+
+- Missing-value handling
 - Categorical feature encoding
 - Feature scaling
-- Class imbalance handling using SMOTE
+- SMOTE-based class balancing
 - Random Forest
 - Gradient Boosting
 - XGBoost
@@ -124,45 +143,50 @@ patient history data.
 - Precision, Recall and F1-score analysis
 - Feature importance analysis
 
-### Technology
+**Stack**
 
 `Python` `Pandas` `NumPy` `Scikit-learn` `SMOTE` `XGBoost`
 
+
 ---
 
-## Color Detection Using CNN
+### 02 — COLOR DETECTION USING CNN
 
-### Deep Learning | Computer Vision | Classification
+**Deep Learning · Computer Vision · Classification**
 
-A computer vision project developed to identify colors accurately using
-a Convolutional Neural Network.
+A computer vision system developed to identify colors using a
+Convolutional Neural Network.
 
-### Key Implementation
+The project includes image preprocessing, dataset standardization,
+CNN-based classification and real-time color detection.
+
+**Implementation**
 
 - Image preprocessing
 - Dataset standardization
-- CNN model development
+- CNN architecture
 - Color classification
-- Real-time color detection
+- Real-time detection
 
-### Technology
+**Stack**
 
 `Python` `TensorFlow` `Keras` `CNN` `Computer Vision`
 
+
 ---
 
-## SmartCart
+### 03 — SMARTCART
 
-### Full Stack Development | E-Commerce | Flask
+**Full Stack Development · E-Commerce · Flask**
 
-SmartCart is a full-stack e-commerce application developed using Flask
-and database technologies.
+A database-driven e-commerce application designed with Flask,
+responsive frontend technologies and structured application logic.
 
-### Key Features
+**Features**
 
 - User registration
-- User authentication
-- Product listing
+- Authentication
+- Product catalogue
 - Product details
 - Shopping cart
 - Admin dashboard
@@ -170,58 +194,40 @@ and database technologies.
 - Database integration
 - Responsive interface
 
-### Technology
+**Stack**
 
 `Python` `Flask` `HTML` `CSS` `JavaScript` `Bootstrap` `MySQL` `SQLite`
 
----
 
-# EDUCATION
+<br>
 
-## Bachelor of Technology — Computer Science & Engineering
 
-Sir C. R. Reddy College of Engineering, Eluru
-
----
-
-# PROFESSIONAL TRAINING
-
-## Python Full Stack Trainee
-
-Codegnan IT Solutions, Hyderabad
-
-October 2025 — May 2026
-
-### Technologies Covered
-
-`Python` `MySQL` `HTML` `CSS` `JavaScript` `Bootstrap` `Flask`
-
----
-
-# CERTIFICATIONS
-
-## HTML5 – The Language
-
-Infosys Springboard
-
-## Python Full Stack Training
-
-Codegnan IT Solutions
-
----
-
-# DEVELOPMENT FOCUS
-
-Currently focusing on strengthening my skills in:
+## DEVELOPMENT TOOLKIT
 
 ```text
-Python Development
-Flask
-SQL and Database Design
-JavaScript
-Full Stack Development
-Machine Learning
-Artificial Intelligence
-Generative AI
-Real-World Application Development
+LANGUAGES
+Python · JavaScript · SQL
 
+FRONTEND
+HTML5 · CSS3 · Bootstrap
+
+BACKEND
+Flask
+
+DATABASE
+MySQL · SQLite
+
+DATA
+Pandas · NumPy · Power BI
+
+MACHINE LEARNING
+Scikit-learn · Random Forest · Gradient Boosting · XGBoost · SMOTE
+
+DEEP LEARNING
+TensorFlow · Keras · CNN
+
+AI / COMPUTER VISION
+Image Processing · Object Detection · Computer Vision
+
+TOOLS
+Git · GitHub · VS Code
