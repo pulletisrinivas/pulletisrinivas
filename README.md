@@ -1,6 +1,6 @@
 #  Hi, I'm Pulletti Srinivas
 
-### 💻 Python Full Stack Developer | CSE Graduate | AI & Machine Learning Enthusiast
+###  Python Full Stack Developer | CSE Graduate | AI & Machine Learning Enthusiast
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Building+Modern+Web+Applications;Exploring+AI+%26+Machine+Learning;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
@@ -166,16 +166,7 @@ During my training, I worked with:
 
 ---
 
-##  GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pulletisrinivas&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulletisrinivas&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pulletisrinivas&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
