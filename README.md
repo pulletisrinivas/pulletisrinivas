@@ -166,10 +166,6 @@ During my training, I worked with:
 
 ---
 
-
-
----
-
 ##  Currently Focused On
 
 ```text
