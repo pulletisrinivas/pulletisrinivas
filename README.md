@@ -33,7 +33,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 ```text
 Name       : Pulletti Srinivas
@@ -56,7 +56,7 @@ Data Analysis and Generative AI**.
 
 ---
 
-## ⚡ What I Build
+##  What I Build
 
 <table>
 <tr>
@@ -84,7 +84,7 @@ Developing ML solutions involving:
 <tr>
 <td width="50%">
 
-### 🗄️ Data & Databases
+###  Data & Databases
 
 Working with:
 
@@ -94,7 +94,7 @@ Working with:
 
 <td width="50%">
 
-### 🧠 Problem Solving
+###  Problem Solving
 
 Interested in turning real-world problems into practical,
 maintainable software solutions.
@@ -105,7 +105,7 @@ maintainable software solutions.
 
 ---
 
-# 🛠️ Technology Stack
+#  Technology Stack
 
 ### Languages
 
@@ -135,7 +135,7 @@ maintainable software solutions.
 
 ---
 
-# 🚀 Selected Projects
+#  Selected Projects
 
 ## 01 — AI Stroke Prediction
 
@@ -213,7 +213,7 @@ integration.
 
 ---
 
-# 🎓 Education
+#  Education
 
 ### B.Tech — Computer Science & Engineering
 
@@ -223,7 +223,7 @@ Computer Science & Engineering
 
 ---
 
-# 💼 Training
+#  Training
 
 ### Python Full Stack Trainee
 
@@ -245,7 +245,7 @@ Flask
 
 ---
 
-# 📜 Certifications
+#  Certifications
 
 | Certification              | Organization          |
 | -------------------------- | --------------------- |
@@ -254,15 +254,7 @@ Flask
 
 ---
 
-# 📊 GitHub
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pulletisrinivas&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulletisrinivas&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
-
-</div>
 
 <br>
 
@@ -274,7 +266,7 @@ Flask
 
 ---
 
-# 🧭 Currently Learning
+#  Currently Learning
 
 <div align="center">
 
@@ -287,7 +279,7 @@ exploring new technologies and strengthening my problem-solving ability.
 
 ---
 
-# 💡 Developer Mindset
+#  Developer Mindset
 
 <div align="center">
 
@@ -300,13 +292,13 @@ practical implementation and continuous improvement.
 
 ---
 
-# 🤝 Let's Connect
+#  Let's Connect
 
 <div align="center">
 
 ### Have an idea, opportunity or project?
 
-**Let's build something great together. 🚀**
+**Let's build something great together. **
 
 <br>
 
@@ -326,7 +318,7 @@ practical implementation and continuous improvement.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:6366F1,100:8B5CF6&height=100&section=footer" width="100%"/>
 
-### ⭐ Thanks for visiting my profile!
+###  Thanks for visiting my profile!
 
 `© Pulletti Srinivas`
 
