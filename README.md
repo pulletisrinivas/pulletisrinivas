@@ -1,233 +1,235 @@
-<div align="center">
+#  Hi, I'm Pulletti Srinivas
 
-<br>
+### 💻 Python Full Stack Developer | CSE Graduate | AI & Machine Learning Enthusiast
 
-# PULLETI SRINIVAS
-
-### PYTHON FULL STACK DEVELOPER
-
-<p>
-Computer Science Engineer · Full Stack Development · Artificial Intelligence
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Building+Modern+Web+Applications;Exploring+AI+%26+Machine+Learning;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<br>
-
-<a href="https://github.com/pulletisrinivas">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=flat-square&logo=github&logoColor=ffffff">
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/srinivas-pulleti-36b640271">
-<img src="https://img.shields.io/badge/LINKEDIN-111111?style=flat-square&logo=linkedin&logoColor=ffffff">
-</a>
-
-<br>
-<br>
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-### BUILDING SOFTWARE WITH PURPOSE.
-
-**Python · Flask · JavaScript · SQL · Machine Learning**
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</div>
-
-
-<br>
-
-
-## PROFILE
-
-I am **Pulletti Srinivas**, a Computer Science graduate and Python
-Full Stack Developer focused on building practical, responsive and
-user-oriented software applications.
-
-My development interests span from modern web development and
-database-driven applications to machine learning, computer vision
-and artificial intelligence.
-
-I enjoy transforming ideas into functional products through a
-combination of clean code, thoughtful design and continuous learning.
-
-
-<br>
-
-
-## CORE TECHNOLOGIES
-
-<table>
-<tr>
-
-<td width="25%" align="center">
-
-### DEVELOPMENT
-
-Python  
-JavaScript  
-HTML5  
-CSS3  
-Bootstrap
-
-</td>
-
-<td width="25%" align="center">
-
-### BACKEND
-
-Flask  
-REST Concepts  
-Application Logic  
-Authentication  
-Database Integration
-
-</td>
-
-<td width="25%" align="center">
-
-### DATA
-
-MySQL  
-SQLite  
-SQL  
-Pandas  
-NumPy  
-Power BI
-
-</td>
-
-<td width="25%" align="center">
-
-### AI / ML
-
-Scikit-learn  
-XGBoost  
-TensorFlow  
-Keras  
-CNN  
-Computer Vision
-
-</td>
-
-</tr>
-</table>
-
-
-<br>
-
-
-## SELECTED WORK
-
-### 01 — AI BASED STROKE PREDICTION
-
-**Machine Learning · Healthcare · Classification**
-
-A machine learning system designed to predict stroke risk using
-patient history data.
-
-The project focuses on preprocessing healthcare data, addressing
-class imbalance and evaluating multiple ensemble learning models.
-
-**Implementation**
-
-- Missing-value handling
-- Categorical feature encoding
-- Feature scaling
-- SMOTE-based class balancing
-- Random Forest
-- Gradient Boosting
-- XGBoost
-- Hyperparameter tuning
-- Stratified cross-validation
-- ROC-AUC evaluation
-- Precision, Recall and F1-score analysis
-- Feature importance analysis
-
-**Stack**
-
-`Python` `Pandas` `NumPy` `Scikit-learn` `SMOTE` `XGBoost`
-
+<p align="center">
+  <a href="https://github.com/pulletisrinivas">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/srinivas-pulleti-36b640271">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 02 — COLOR DETECTION USING CNN
+##  About Me
 
-**Deep Learning · Computer Vision · Classification**
+I'm **Srinivas Pulleti**, a Computer Science graduate and aspiring software developer passionate about creating practical, user-friendly and scalable applications.
 
-A computer vision system developed to identify colors using a
-Convolutional Neural Network.
+I have completed a **Python Full Stack training program at Codegnan IT Solutions, Hyderabad**, where I worked with modern web technologies and backend development concepts.
 
-The project includes image preprocessing, dataset standardization,
-CNN-based classification and real-time color detection.
+I'm particularly interested in:
 
-**Implementation**
+* 🐍 Python & Full Stack Development
+* 🌐 Responsive Web Applications
+* ⚡ Flask-based Applications
+* 🗄️ SQL & Database Development
+* 🤖 Machine Learning & Artificial Intelligence
+* 📊 Data Analysis & Visualization
+* 🧠 Generative AI & Prompt Engineering
+* 🚀 Building real-world software solutions
 
-- Image preprocessing
-- Dataset standardization
-- CNN architecture
-- Color classification
-- Real-time detection
-
-**Stack**
-
-`Python` `TensorFlow` `Keras` `CNN` `Computer Vision`
-
+> **My goal is to continuously learn, build meaningful projects and grow as a professional software developer.**
 
 ---
 
-### 03 — SMARTCART
+##  Tech Stack
 
-**Full Stack Development · E-Commerce · Flask**
+###  Programming & Web
 
-A database-driven e-commerce application designed with Flask,
-responsive frontend technologies and structured application logic.
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,bootstrap" />
+</p>
+
+###  Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,mysql,sqlite" />
+</p>
+
+###  AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+**Technologies & Libraries**
+
+`Pandas` · `NumPy` · `Scikit-learn` · `XGBoost` · `Keras` · `TensorFlow` · `SMOTE`
+
+###  Data & Analytics
+
+`Python Data Analysis` · `Pandas` · `NumPy` · `SQL` · `Power BI` · `Data Visualization`
+
+###  Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+##  Featured Projects
+
+###  AI-Based Stroke Prediction Model
+
+**AI Based Stroke Prediction Model Using Patient History Data**
+
+A machine learning project focused on predicting stroke risk using patient history data.
+
+**Key Features**
+
+* Data preprocessing and missing-value handling
+* Categorical feature encoding
+* Feature scaling
+* SMOTE for handling class imbalance
+* Random Forest
+* Gradient Boosting
+* XGBoost
+* Hyperparameter tuning
+* Stratified cross-validation
+* ROC-AUC analysis
+* Precision, Recall and F1-score evaluation
+
+**Tech:** `Python` `Pandas` `NumPy` `Scikit-learn` `SMOTE` `XGBoost` `Machine Learning`
+
+---
+
+###  Color Detection Using CNN
+
+A computer vision project designed to identify colors accurately using a Convolutional Neural Network.
+
+**Highlights**
+
+* Dataset preprocessing
+* Image standardization
+* CNN model development
+* Color classification
+* Real-time color detection
+
+**Tech:** `Python` `CNN` `TensorFlow` `Keras` `Computer Vision`
+
+---
+
+###  SmartCart — E-Commerce Web Application
+
+A full-stack e-commerce application developed using Flask and database technologies.
 
 **Features**
 
-- User registration
-- Authentication
-- Product catalogue
-- Product details
-- Shopping cart
-- Admin dashboard
-- Product management
-- Database integration
-- Responsive interface
+* User registration and login
+* Product listing
+* Product details
+* Shopping cart
+* Admin dashboard
+* Product management
+* Database integration
+* Responsive user interface
 
-**Stack**
+**Tech:** `Python` `Flask` `MySQL/SQLite` `HTML` `CSS` `JavaScript` `Bootstrap`
 
-`Python` `Flask` `HTML` `CSS` `JavaScript` `Bootstrap` `MySQL` `SQLite`
+---
 
+##  Education
 
-<br>
+###  B.Tech — Computer Science & Engineering
 
+**Sir C. R. Reddy College of Engineering, Eluru**
 
-## DEVELOPMENT TOOLKIT
+Computer Science & Engineering
+
+---
+
+##  Training
+
+###  Python Full Stack Trainee
+
+**Codegnan IT Solutions — Hyderabad**
+
+**October 2025 – May 2026**
+
+During my training, I worked with:
+
+`Python` · `MySQL` · `HTML` · `CSS` · `JavaScript` · `Bootstrap` · `Flask`
+
+---
+
+##  Certifications
+
+* **HTML5 – The Language** — Infosys Springboard
+* **Python Full Stack Training** — Codegnan IT Solutions
+
+---
+
+##  GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pulletisrinivas&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulletisrinivas&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pulletisrinivas&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+##  Currently Focused On
 
 ```text
-LANGUAGES
-Python · JavaScript · SQL
+╭──────────────────────────────────────────────────────────╮
+│                                                          │
+│  🐍 Improving Python Development                         │
+│  🌐 Building Full Stack Web Applications                 │
+│  🗄️ Strengthening SQL & Database Concepts                │
+│  🤖 Exploring AI & Machine Learning                      │
+│  💡 Building Practical Projects                          │
+│  🚀 Growing as a Professional Software Developer         │
+│                                                          │
+╰──────────────────────────────────────────────────────────╯
+```
 
-FRONTEND
-HTML5 · CSS3 · Bootstrap
+---
 
-BACKEND
-Flask
+##  My Development Philosophy
 
-DATABASE
-MySQL · SQLite
+> **Learn → Build → Improve → Repeat**
 
-DATA
-Pandas · NumPy · Power BI
+I believe the best way to become a better developer is to continuously learn new concepts, build practical projects, understand mistakes and improve with every iteration.
 
-MACHINE LEARNING
-Scikit-learn · Random Forest · Gradient Boosting · XGBoost · SMOTE
+---
 
-DEEP LEARNING
-TensorFlow · Keras · CNN
+##  Let's Connect
 
-AI / COMPUTER VISION
-Image Processing · Object Detection · Computer Vision
+I'm always interested in connecting with developers, recruiters and technology enthusiasts.
 
-TOOLS
-Git · GitHub · VS Code
+<p align="center">
+
+<a href="https://github.com/pulletisrinivas">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/srinivas-pulleti-36b640271">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+###  Thanks for visiting my profile!
+
+**Let's build something great together. **
+
+</p>
+
+<p align="center">
+  <sub>© Pulletti Srinivas • Built with love and lots of ☕</sub>
+</p>
